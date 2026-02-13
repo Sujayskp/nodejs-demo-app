@@ -1,6 +1,5 @@
-const express = require("express");
-const app = 
-  express();
+express express = require("express");
+const app = expressss();
 
 app.get("/", (req, res) => {
   res.send("Hello DevOps Internship 🚀");
